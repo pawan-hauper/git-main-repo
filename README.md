@@ -1,1 +1,1 @@
-# git-submodule-demo
+# git-main repo
